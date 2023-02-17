@@ -119,3 +119,24 @@ button {
   display: flex;
   justify-content: flex-end;
 }
+
+/* Call to Action Section */
+
+.action {
+  color: white;
+}
+.wrapper {
+  background-color: #3882F6;
+  margin: 80px 200px;
+  padding: 30px 100px;
+  border-radius: 8px;
+}
+
+.action .subtext {
+  color: #E5E7EB;
+}
+
+.title {
+  font-size: 18px;
+  font-weight: 600;
+}
