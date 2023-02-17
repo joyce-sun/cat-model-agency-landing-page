@@ -3,10 +3,13 @@ body {
     margin: 0;
 }
 
+/* header section */
+
 .header {
   background-color: #1F2937;
   font-size: 24px;
   font-weight: bold;
+  padding: 8px;
   color: #F9FAF8;
   display: flex;
   justify-content: space-around;
@@ -26,3 +29,29 @@ a {
   font-size: 18px;
   font-weight: normal;
 }
+
+/* hero section */
+
+.hero {
+  background-color: #1F2937;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 100px 150px;
+}
+
+.text-section {
+  color: #F9FAF8;
+  font-size: 48px;
+  font-weight: bolder;
+}
+
+button {
+  color: white;
+  border: none;
+  background-color: #3882F6;
+  padding: 10px 18px;
+  border-radius: 8px;
+}
+
+
