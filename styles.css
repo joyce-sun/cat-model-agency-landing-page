@@ -151,3 +151,13 @@ button {
   border-radius: 8px;
   border: 1px solid white; 
 }
+
+.footer {
+  height: 60px;
+  font-weight: 200;
+  background-color: #1F2937;
+  color: #E5E7EB;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
