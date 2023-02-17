@@ -9,10 +9,10 @@ body {
   background-color: #1F2937;
   font-size: 24px;
   font-weight: bold;
-  padding: 12px;
+  padding: 12px 100px;
   color: #F9FAF8;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 
 ul {
@@ -37,7 +37,7 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 100px 150px;
+  padding: 100px 110px;
 }
 
 .text-section {
