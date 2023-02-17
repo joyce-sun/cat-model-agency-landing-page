@@ -66,4 +66,26 @@ button {
   border-radius: 8px;
 }
 
+/* Models section */
 
+.models {
+  font-size: 36px;
+  font-weight: 800;
+  color: #1F2937;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.models .container {
+  font-size: 18px;
+  font-weight: 200;
+  display: flex;
+  gap: 20px;
+}
+
+.model {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
